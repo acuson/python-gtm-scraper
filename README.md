@@ -47,12 +47,15 @@ Here is the code that you would run in a code editor (in this example, I am usin
 ![screenshot](./assets/code.png)
 
 Using VS Code, click on this icon to run the python file. Other code editors may have a similar feature. Please consult the relevant documentation.
+
 ![screenshot](./assets/run.png)
 
 If it is successful, then the GTM container will print in the terminal.
+
 ![screenshot](./assets/terminal-success.png)
 
 Otherwise, an error will be printed in the terminal. This means that given the specifications, the web scraper was not able to find a valid match
+
 ![screenshot](./assets/terminal-error.png)
 
 
